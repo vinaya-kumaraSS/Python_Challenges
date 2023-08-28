@@ -1,0 +1,6 @@
+The program takes a string and checks if a substring is present in the given string.
+output:
+enter the string:vinay
+the given number is not palindrome
+enter the string:v
+the number is palindrome
