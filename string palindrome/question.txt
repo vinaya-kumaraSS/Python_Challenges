@@ -1,0 +1,4 @@
+the program takes the string from the user and check the palindrome or not
+output:
+enter the integer or string121
+the given string is palindrome
