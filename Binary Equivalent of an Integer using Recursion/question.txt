@@ -1,0 +1,9 @@
+Binary Equivalent of an Integer using Recursion
+
+output :
+Enter a number: 10
+Binary equivalent:
+1
+0
+1
+0
