@@ -1,0 +1,5 @@
+The program takes in an integer and prints the smallest divisor of the integer.
+
+output :
+Enter an integer:98889
+Smallest divisor is: 3
