@@ -1,0 +1,5 @@
+The program takes the number and prints the number of digits in the number.
+
+output:
+Enter number:123
+The number of digits in the number are: 3
