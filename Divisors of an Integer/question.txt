@@ -1,0 +1,9 @@
+Program to generate all the divisors of an integer.
+
+output :
+Enter an integer:10
+The divisors of the number are:
+1
+2
+5
+10
