@@ -1,0 +1,5 @@
+The program takes in a number and finds the sum of digits in a number.
+
+output :
+enter the number :564
+sum of the digit is : 15
