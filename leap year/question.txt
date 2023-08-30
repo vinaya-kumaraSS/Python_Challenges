@@ -1,0 +1,5 @@
+Python Program to Check Leap Year
+
+output :
+Enter year to be checked:2020
+The year is a leap year!
