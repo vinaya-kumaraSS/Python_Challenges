@@ -1,0 +1,9 @@
+Python Program to Calculate Grade of a Student
+
+output :
+Enter marks of the first subject: 34
+Enter marks of the second subject: 50
+Enter marks of the third subject: 45
+Enter marks of the fourth subject: 26
+Enter marks of the fifth subject: 46
+Grade: F
