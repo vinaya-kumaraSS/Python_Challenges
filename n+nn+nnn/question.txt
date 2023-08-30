@@ -1,0 +1,11 @@
+Python Program to Read a Number n and Compute n+nn+nnn
+
+output :
+entter the number:5
+615
+
+explination :
+num=5
+t1=55
+t2=555
+total=5+55+555
