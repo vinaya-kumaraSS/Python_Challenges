@@ -1,0 +1,11 @@
+Magic 8-ball Game
+
+output :
+Ask the magic 8 ball a question: (press enter to quit) 8
+Reply hazy, try again.
+Ask the magic 8 ball a question: (press enter to quit) 3
+You may rely on it.
+Ask the magic 8 ball a question: (press enter to quit) 17
+Outlook not so good.
+Ask the magic 8 ball a question: (press enter to quit) 
+Stopping the Game.
